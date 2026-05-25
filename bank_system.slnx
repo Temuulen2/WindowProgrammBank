@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BankSystemLibrary/BankSystem.Shared.csproj" />
+  <Project Path="BankSystemServer/BankSystem.Server.csproj" />
+  <Project Path="BankSystemTest/BankSystemTest.csproj" />
+  <Project Path="WinFormsApp1/WinFormsApp1.csproj" />
+  <Project Path="WinFormsApp2/WinFormsApp2.csproj" />
+  <Project Path="BankSystem.CurrencyDisplay/BankSystem.CurrencyDisplay.csproj" />
+</Solution>
